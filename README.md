@@ -1,6 +1,6 @@
 # __Hello World__
 Aquesta es la meva pagina web creada desde la aplicació Github. Espero que os agradi.
-<img src="foto1.jpeg" width="300" height="400" alt="imagen">
+<img src="foto1.jpeg" width="600" height="500" alt="imagen">
 
 | Pasos                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
