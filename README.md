@@ -1,5 +1,5 @@
 # __Hello World__
-Aquesta es la meva pagina web creada desde la aplicació Github. Espero que os agradi.
+Aquesta es la meva pagina web creada desde la aplicació Github. Primer hem creat un arxiu amb un codi html, despres hem posat un codi html dins d'aquest arxiu y vam crear una branca nova per poder pujar la pagina web a internet. Aquest es el resultat. Espero que os agradi. 
 <img src="foto1.jpeg" width="600" height="500" alt="imagen">
 
 | Pasos                                                                                                                                                              |
